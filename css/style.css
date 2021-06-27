@@ -188,7 +188,7 @@ header {
 }
 .feature-single {
   width: 31%;
-  height: 280px;
+  min-height: 280px;
   float: left;
   background-color: #f3f3f3;
   margin: 10px 1%;
