@@ -53,6 +53,7 @@ header {
 .header-btn {
   width: 22%;
   float: right;
+  text-align: right;
   margin-top: 5px;
   /* border: 1px solid blueviolet; */
 }
